@@ -2,5 +2,6 @@ streamlit
 python-dotenv
 pandas
 seaborn
---upgrade scikit-learn
+pip install --upgrade scikit-learn
+
 
